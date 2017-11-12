@@ -1,6 +1,6 @@
 import MySQLdb
 
-db = MySQLdb.connect("localhost", "luke906", "lsw20061216!", "AIRBITCLUB")
+db = MySQLdb.connect("uws64-127.cafe24.com", "runa126", "Sunny20061216!", "runa126")
 
 cursor = db.cursor()
 
